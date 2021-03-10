@@ -27,4 +27,4 @@ log in:
 <img src='http://g.recordit.co/7AqX6puZFN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 sign up: 
-<img src='https://g.recordit.co/cLKLh0EnAb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/cLKLh0EnAb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
