@@ -26,6 +26,10 @@ Login/Logout:
 
 <img src='http://g.recordit.co/ab9Ai0kXfn.gif' width='' alt='Video Walkthrough' />
 
+Post/View Comments: 
+
+<img src='http://g.recordit.co/kvOQjUPNlC.gif' width='' alt='Video Walkthrough' />
+
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
