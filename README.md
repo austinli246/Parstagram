@@ -22,6 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Login/Logout:
+
 <img src='http://g.recordit.co/ab9Ai0kXfn.gif' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
